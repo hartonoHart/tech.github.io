@@ -33,7 +33,6 @@ $(document).ready(function() {
           dropdownLevel.append(listLevel);
       }
   }
-
   startGame();
 
   $('#myDropDown li').click(function() {
